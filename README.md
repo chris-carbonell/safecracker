@@ -11,7 +11,7 @@ The following file types are supported:<br>
 # Quickstart
 
 See the examples directory for more details. For instance, you can crack a really easy ZIP with the following:<br>
-<code>python -m examples.example_01_mask_xt</code>
+<code>python -m examples.01_mask_xt</code>
 
 # Installation
 
